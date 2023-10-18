@@ -1,0 +1,15 @@
+Coding Assignment – Associate Software Engineer
+
+As part of our hiring process, we send out assignments related to the position to test
+your skills. You will find the assignment below.
+The goal of this assignment is to understand the potential of your skills and what kind of
+approach you take while solving problems related to the position of Associate Software
+Engineer.
+The due date of the assignment is 1 week.
+Only the candidate who successfully completes all three assignments will be considered for
+the next interview round.
+Our technical team will review your assignment once you have completed and submitted it,
+and based on the assignment, we will schedule your next interview round.
+
+Assignment Submission: Deploy the working code to GitHub and share the repository link with
+careers@cloudvandana.com
